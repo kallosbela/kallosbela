@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me
+
+I have a degree in mathematics and mathematics education, and I have worked as a teacher for many years. In the past year (2022-2023), I have participated in a frontend and fullstack bootcamp at Codecool. I am currently looking for my first software developer job.
 
 <!--
 **kallosbela/kallosbela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
