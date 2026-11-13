@@ -1,6 +1,6 @@
 ### About me
 
-I’m a former math teacher with degrees in Mathematics and Mathematics Education. In 2023, I completed a frontend and fullstack bootcamp at Codecool, and now I work as a Delphi software developer.
+I’m a mathematics teacher with a programmer’s mindset. After spending time in the software industry as a Delphi developer, I returned to teaching—combining my love for mathematics and coding.
 
 <!--
 **kallosbela/kallosbela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
